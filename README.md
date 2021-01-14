@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Don
 
 <!--
 **dshine/dshine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://pbs.twimg.com/media/Eokrei5XEAcRlmE?format=jpg&name=medium" alt="Banner for the 'Build your digital story' workshop that I particpated in with FrauenLoop. I spoke about using GitHub in your job search">
