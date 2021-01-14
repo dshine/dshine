@@ -31,3 +31,6 @@ One of the most fun aspects of FrauenLoop for me are the talks and workshops tha
 <img src="https://pbs.twimg.com/media/EhabxAOWkAA_Nj1?format=jpg&name=900x900" alt="Banner for the 'Negotiating Compensation in the time of Covid-19' workshop that I particpated in with FrauenLoop. I spoke about alternative methods of compensation now that the ususal office perks have disappeared.">
 
 <img src="https://media-exp1.licdn.com/dms/image/C4D22AQGreA07B0HDAA/feedshare-shrink_800/0/1583252170016?e=1613606400&v=beta&t=7pFn367tnX7x1OsSlfFmmZAK5gdKsNre90mS3UZzDK8" alt="Banner for the 'Tech CV Prepration Workshop' workshop that I particpated in with FrauenLoop. The look of shock when you tell people that they have 10 seconds to grab HR's attention never changes.">
+
+
+[![](https://github.com/dshine.png?size=50)](https://github.com/dshine)
