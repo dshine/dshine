@@ -1,8 +1,8 @@
 ### Hi, I'm Don
 
-<img src="https://mindscriptstech.com/wp-content/uploads/2016/04/Full-Stack-Developer.jpg" alt="Image from mindscriptstech.com"
+<img src="https://mindscriptstech.com/wp-content/uploads/2016/04/Full-Stack-Developer.jpg" alt="Image from mindscriptstech.com">
 
-Thanks for stopping by to check out my profile. I am in the process of building this out further between projects so please bear with me while :)
+Thanks for stopping by to check out my profile. I am in the process of building a better profile page between projects so please bear with me while I update this :)
 <!--
 **dshine/dshine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
