@@ -35,6 +35,6 @@ One of the most fun aspects of FrauenLoop for me are the talks and workshops tha
 ### Fellow Mentors
 
 [![](https://github.com/dshine.png?size=50)](https://github.com/dshine)
-[![](https://github.com/orgs/FrauenLoop-Berlin/people/tugcekonuklar)](https://github.com/orgs/FrauenLoop-Berlin/people/tugcekonuklar)
+[![](https://github.com/tugcekonuklar.png?size=50)](https://github.com/tugcekonuklar)
 
 
