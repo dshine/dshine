@@ -35,7 +35,6 @@ One of the most fun aspects of FrauenLoop for me are the talks and workshops tha
 ### Fellow Mentors
 
 [![](https://github.com/dshine.png?size=50)](https://github.com/dshine)
-[![](https://github.com/Frieda87.png?size=50)](https://github.com/Frieda87)
 [![](https://github.com/NathalieScherf.png?size=50)](https://github.com/NathalieScherf)
 [![](https://github.com/tugcekonuklar.png?size=50)](https://github.com/tugcekonuklar)
 
